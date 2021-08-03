@@ -1,0 +1,11 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Anything after this will be custom styling!
+
+body,
+html {
+  min-height: 100vh;
+  min-width: 100vw;
+  font-size: 20px;
+  color: darkslategrey;
+}
